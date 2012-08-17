@@ -1,7 +1,7 @@
 <tags>
 <tag type="email" name="investor">
 .+@(.*\.|)sequoiacap.com
-<tag>
+</tag>
 <tag type="email" name="press">
 .+@(.*\.|)199it.com|
 .+@(.*\.|)9to5mac.com|
